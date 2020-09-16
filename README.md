@@ -1,2 +1,2 @@
 # custom-theme
-An exceptional Wordpress theme.
+[TEST!] An exceptional Wordpress theme.
